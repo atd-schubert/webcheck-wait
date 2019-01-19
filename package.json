@@ -1,6 +1,6 @@
 {
   "name": "webcheck-wait",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webcheck plugin to raise wait paramerter by delay",
   "main": "index.js",
   "directories": {
@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/atd-schubert/webcheck-wait#readme",
   "dependencies": {
-    "webcheck": "file:webcheck-2.0.0.tgz"
+    "webcheck": "^2.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.16.0",
